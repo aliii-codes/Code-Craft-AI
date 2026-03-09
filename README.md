@@ -22,7 +22,7 @@ Code-Craft-AI is an intelligent coding assistant designed to help developers wit
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Code-Craft-AI.git
+   git clone https://github.com/aliii-codes/Code-Craft-AI.git
    cd Code-Craft-AI
    ```
 
